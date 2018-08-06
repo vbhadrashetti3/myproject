@@ -1,5 +1,6 @@
 <?php 
 echo "GITHUB testing";
+echo "another";
 
  ?>
  <!DOCTYPE html>
